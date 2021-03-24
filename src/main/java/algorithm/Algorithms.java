@@ -11,8 +11,8 @@ public class Algorithms {
         int[] arr = {4, 3, 2, 1};
         int[] arr2 = {3, 2};
 
-        QuickSort qs = new QuickSort();
-        qs.solve();
+        RandomSelect select = new RandomSelect();
+        select.solve();
     }
 
     /**
